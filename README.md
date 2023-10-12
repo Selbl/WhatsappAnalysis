@@ -16,11 +16,12 @@ I have provided a test chat file for you to try the code out. If you prefer, you
 
 To work with your own data, first you have to open Whatsapp. Then go to the desired chat and click on the three dots in the upper-right corner. It should look like this:
 
-![Screenshot_20231012_073320_WhatsApp](https://github.com/Selbl/WhatsappAnalysis/assets/84146608/3e87d1f2-584e-4056-8865-2fa2e0890779)
+![Screenshot_20231012_073320_WhatsApp](https://github.com/Selbl/WhatsappAnalysis/assets/84146608/904c3d06-557f-411a-a167-9f6ea9a57140)
+
 
 Afterwards, click on More to find the following display:
 
-![Screenshot_20231012_073324_WhatsApp](https://github.com/Selbl/WhatsappAnalysis/assets/84146608/1c480fbf-122a-47da-b5b1-b1e3531a3f93)
+![Screenshot_20231012_073324_WhatsApp](https://github.com/Selbl/WhatsappAnalysis/assets/84146608/658dcde8-4634-4b55-a866-1b7cfc620b22)
 
 Choose your desired way of sending the data to yourself and voilá!
 
