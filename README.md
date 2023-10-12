@@ -12,6 +12,10 @@ While my original purpose was to create a code for group-chat analysis, it also 
 
 I have provided a test chat file for you to try the code out. If you prefer, you can run the code with your own conversations! The test file is randomly generated, so there should not be any clearly defined patterns. Down below I provide the steps to export your own chat from Whatsapp.
 
+## Working With Languages Other Than English
+
+You can use this code to analyze conversations in languages other than English. Just keep in mind that you will have to change the language in the stopwords line from english to the language you desire.
+
 ## Exporting Data
 
 To work with your own data, first you have to open Whatsapp. Then go to the desired chat and click on the three dots in the upper-right corner. It should look like this:
